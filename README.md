@@ -42,7 +42,7 @@ In the police dashboard there are two main buttons in the navigation bar
 2.Dispatch room,
 Cases will show the status of the users and Dispatch room will show the details of PCR.
 
-<img width="1752" height="1085" alt="Image" src="https://github.com/user-attachments/assets/9c1bfd0d-35b1-4798-8672-0559b92225d1" />
+<img width="1752" height="1088" alt="Image" src="https://github.com/user-attachments/assets/6e2f1048-06f1-4a86-bc18-022148e05b46" />
 
 
 FUTURE SCOPE :
