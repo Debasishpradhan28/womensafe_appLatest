@@ -3,8 +3,11 @@ Team Number: 33
 
 Team Members:
 1.Krishna Kanta Sahoo(Team Leader)
+
 2.Debasish Pradhan
+
 3.Bijay Kumar Mohanty
+
 4.Kanha Jaiswal
 
 Institute Name - VEER SURENDRA SAI UNIVERSITY OF TECHNOLOGY , BURLA
@@ -22,6 +25,7 @@ App Manual :
 1.  click the prototype to open the Sahaaya app, it will open the flash page, in which get started button is there.
 
 USER :
+
 3.  after clicking the get started button login page will be there, for the first time you need to create acount.
    
 2.  click the create account button, it will open the create account page. after account is created it will open the first page of Sahaaya . the first page contains the main functionality of Sahaaya .
@@ -41,9 +45,11 @@ The Sahaaya Women Safety Application has strong potential for further enhancemen
 The future scope of this project includes the following developments:
 1. AI Powered Threat Detection
 AI model to analyze background audio that detects keywords like 'help' , 'save me' , 'stop' .
-2. Offline Mesh Network Support
+
+3. Offline Mesh Network Support
 Send sms even when no network,internet and in remote areas also.
-3. Predictive safety Analysis
+
+4. Predictive safety Analysis
 Heat maps for unsafe zones.
 Time-based safety scores for areas.
 Suggest safe routes for women based on crime data.
@@ -51,6 +57,7 @@ Early warning alerts when entering risky locations.
    
 
 APP DETAILS :
+
 Sahaaya is a smart women-safety application that works both offline and online, ensuring help reaches even when there is no internet.
 The app is activated using a secret 6-tap gesture on the screen, allowing women to send an emergency alert silently.
 
