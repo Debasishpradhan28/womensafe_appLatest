@@ -89,9 +89,9 @@ KEY FEATURES :
 
 TECHNOLOGY USED:
 
-Frontend: React Native(user app) , Typescript
+Frontend: React Native(user app) , Typescript 
 
-Backend: Node.js/FastAPI, WebSockets(live tracking)
+Backend: Node.js/Express.js , FastAPI, WebSockets(live tracking)
 
 Database: PostgreSQL + PostGIS(for geo-queries)
 
