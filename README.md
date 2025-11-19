@@ -2,6 +2,7 @@ Problem Statement number-12
 Team Number: 33
 
 Team Members:
+
 1.Krishna Kanta Sahoo(Team Leader)
 
 2.Debasish Pradhan
@@ -11,6 +12,7 @@ Team Members:
 4.Kanha Jaiswal
 
 Institute Name - VEER SURENDRA SAI UNIVERSITY OF TECHNOLOGY , BURLA
+
 
 prototype link - https://womensafeapplatest.vercel.app
 
@@ -43,16 +45,23 @@ FUTURE SCOPE :
 
 The Sahaaya Women Safety Application has strong potential for further enhancement and large-scale deployment. While the current prototype demonstrates the core SOS functionality, background tracking, and hybrid offline–online emergency system, several advanced features can be implemented in future versions to increase efficiency, reliability, and real-world impact.
 The future scope of this project includes the following developments:
+
 1. AI Powered Threat Detection
+
 AI model to analyze background audio that detects keywords like 'help' , 'save me' , 'stop' .
 
-3. Offline Mesh Network Support
+2. Offline Mesh Network Support
+
 Send sms even when no network,internet and in remote areas also.
 
-4. Predictive safety Analysis
+3. Predictive safety Analysis
+
 Heat maps for unsafe zones.
+
 Time-based safety scores for areas.
+
 Suggest safe routes for women based on crime data.
+
 Early warning alerts when entering risky locations.
    
 
