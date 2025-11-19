@@ -2,10 +2,10 @@ Problem Statement number-12
 Team Number: 33
 
 Team Members:
-      1.Krishna Kanta Sahoo(Team Leader)
-      2.Debasish Pradhan
-      3.Bijay Kumar Mohanty
-      4.Kanha Jaiswal
+1.Krishna Kanta Sahoo(Team Leader)
+2.Debasish Pradhan
+3.Bijay Kumar Mohanty
+4.Kanha Jaiswal
 
 Institute Name - VEER SURENDRA SAI UNIVERSITY OF TECHNOLOGY , BURLA
 
@@ -20,32 +20,34 @@ flowchart -->
 App Manual :
 
 1.  click the prototype to open the Sahaaya app, it will open the flash page, in which get started button is there.
-   USER :
-2.  after clicking the get started button login page will be there, for the first time you need to create acount.
+
+USER :
+3.  after clicking the get started button login page will be there, for the first time you need to create acount.
    
 2.  click the create account button, it will open the create account page. after account is created it will open the first page of Sahaaya . the first page contains the main functionality of Sahaaya .
-    i.e tapping 6 times the screen to activate it.
-   There are also two buttons at the top right corner , one of them is a police dashboard button, another one is settings button.Tap 6 times and it will be activated and it will send your details automatically to the nearby police stations which can be viewed in the police dashboard section.
-    Additionally it will also record  the voice of the user.
-   POLICE DASHBOARD :
-   In the police dashboard there are two main buttons in the navigation bar
-   1.cases
-   2.Dispatch room,
-   Cases will show the status of the users and Dispatch room will show the details of PCR.
+i.e tapping 6 times the screen to activate it.
+There are also two buttons at the top right corner , one of them is a police dashboard button, another one is settings button.Tap 6 times and it will be activated and it will send your details automatically to the nearby police stations which can be viewed in the police dashboard section.
+Additionally it will also record  the voice of the user.
+    
+POLICE DASHBOARD :
+In the police dashboard there are two main buttons in the navigation bar
+1.cases
+2.Dispatch room,
+Cases will show the status of the users and Dispatch room will show the details of PCR.
 
 FUTURE SCOPE :
 
 The Sahaaya Women Safety Application has strong potential for further enhancement and large-scale deployment. While the current prototype demonstrates the core SOS functionality, background tracking, and hybrid offline–online emergency system, several advanced features can be implemented in future versions to increase efficiency, reliability, and real-world impact.
 The future scope of this project includes the following developments:
 1. AI Powered Threat Detection
-   AI model to analyze background audio that detects keywords like 'help' , 'save me' , 'stop' .
+AI model to analyze background audio that detects keywords like 'help' , 'save me' , 'stop' .
 2. Offline Mesh Network Support
-   Send sms even when no network,internet and in remote areas also.
+Send sms even when no network,internet and in remote areas also.
 3. Predictive safety Analysis
-   Heat maps for unsafe zones.
-   Time-based safety scores for areas.
-   Suggest safe routes for women based on crime data.
-   Early warning alerts when entering risky locations.
+Heat maps for unsafe zones.
+Time-based safety scores for areas.
+Suggest safe routes for women based on crime data.
+Early warning alerts when entering risky locations.
    
 
 APP DETAILS :
@@ -67,7 +69,7 @@ KEY FEATURES :
 
 6.Police Dashboard – Live map interface showing victim’s movement, distance, speed, nearby responders, and case controls.
 
-7.Stealth Mode – SOS activates silently with hidden UI and secret “I am safe” cancel option.
+7.Stealth Mode – SOS activates silently with hidden UI and secret “I am safe” as a cancel option.
 
 TECHNOLOGY USED:
 
