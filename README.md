@@ -34,12 +34,15 @@ USER :
 i.e tapping 6 times the screen to activate it.
 There are also two buttons at the top right corner , one of them is a police dashboard button, another one is settings button.Tap 6 times and it will be activated and it will send your details automatically to the nearby police stations which can be viewed in the police dashboard section.
 Additionally it will also record  the voice of the user.
-    
+  
 POLICE DASHBOARD :
 In the police dashboard there are two main buttons in the navigation bar
 1.cases
 2.Dispatch room,
 Cases will show the status of the users and Dispatch room will show the details of PCR.
+
+<img width="1752" height="1085" alt="Image" src="https://github.com/user-attachments/assets/9c1bfd0d-35b1-4798-8672-0559b92225d1" />
+
 
 FUTURE SCOPE :
 
